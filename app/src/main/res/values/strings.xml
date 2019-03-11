@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">fastjob</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+    <string name="title_activity_anuncia">Anuncia</string>
+    <string name="title_activity_seleccionados">Seleccionados</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Nelson Enrique Redondo Barros</string>
+    <string name="nav_header_subtitle">nredondo26@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_anuncia">Anuncia</string>
+    <string name="menu_seleccionados">Seleccionados</string>
+
+    <string-array name="cargos_array">
+        <item>Lista de Cargos</item>
+        <item>Mesero</item>
+        <item>Aux Cocina</item>
+        <item>Parrillero</item>
+        <item>Aseo</item>
+        <item>Cocinero</item>
+    </string-array>
+
+
+    //Botones
+    <string name="boton_registrate">registrate</string>
+    <string name="boton_iniciar_sesion">inicio sesion</string>
+    <string name="boton_guardar_registro">Registrar</string>
+    <string name="boton_salir">Salir</string>
+    <string name="boton_aceptar">Aceptar</string>
+    <string name="boton_rechazar">Rechazar</string>
+
+
+    //Textos
+    <string name="texto_registro">Registro Empresa</string>
+    <string name="texto_candidato">Registro Candidato</string>
+    <string name="texto_nombre">Nombre</string>
+    <string name="texto_nit">NIT</string>
+    <string name="texto_cc">C.C/Pas</string>
+    <string name="texto_tel">Telefono</string>
+    <string name="texto_correo">Correo</string>
+    <string name="texto_direccion">Direccion</string>
+    <string name="texto_pass">Pssword</string>
+    <string name="texto_act_economica">Act Economica</string>
+    <string name="texto_edad">Edad</string>
+    <string name="text_candidato">Candidato</string>
+    <string name="text_empresa">Empresa</string>
+    <string name="text_enespera1">Su registro se encuentra en revisión. Pronto nos pondremos en contacto con usted</string>
+    <string name="text_conf_servicio">Estas seguro de tomar este servicio</string>
+
+
+    //Hin
+    <string name="hin_email">Email</string>
+    <string name="hin_contraseña">Contraseña</string>
+
+
+</resources>

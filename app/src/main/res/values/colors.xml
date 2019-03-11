@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2871C0</color>
+    <color name="colorPrimaryDark">#0E4785</color>
+    <color name="colorAccent">#2F9DE7</color>
+    <color name="colorMenu">#DCF3FA</color>
+
+//colores del diseño
+    <color name="colorfondo">#5d90ac</color>
+    <color name="boton_rojo">#ed1a39</color>
+    <color name="boton_verde">#97c93c</color>
+    <color name="colorcarview">#ABBED3E6</color>
+
+
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="MyEditTextTheme">
+        <item name="colorControlNormal">#444242</item>
+        <item name="colorControlActivated">#0F0F0F</item>
+        <item name="colorControlHighlight">#363836</item>
+    </style>
+
+</resources>
